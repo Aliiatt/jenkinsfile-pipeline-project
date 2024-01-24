@@ -1,1 +1,1 @@
-print('My first python job which is run within Jenkinsfile cheeeck.')
+print('My first python job which is run within Jenkinsfile cheeeck every minute.')
